@@ -1,0 +1,17 @@
+.main-container {
+  background-image: radial-gradient(lightgreen, yellow);
+  height: 100vh;
+  padding: 10px;
+}
+
+.temperature-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.search-box {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
